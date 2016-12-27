@@ -12,7 +12,7 @@
     "wangEditor",
     "富文本编辑器"
   ],
-  "main": "dist/js/wangEditor.js",
+  "main": ["dist/js/wangEditor.js","dist/css/wangEditor.min.css"],
   "maintainers": [
     {
       "name": "wangfupeng1988",
